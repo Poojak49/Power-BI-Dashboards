@@ -1,0 +1,47 @@
+Netflix Movies and Shows
+Dataset Overview:
+This dataset provides a comprehensive snapshot of the movies and shows available on Netflix,
+offering a wealth of information to understand content trends, popularity, and various significant
+aspects. It is a valuable resource for exploring entertainment trends, discerning preferences
+across different age groups, and conducting comparative analyses of genres and production
+locations.
+You are a Data Analyst at Netflix. By making use of the following data make a Power BI
+dashboard which will help Netflix to gain important data-driven insights for decision-making on
+further strategies.
+Features:
+➔ Show_id
+➔ Type
+➔ Title
+➔ Director
+➔ Cast
+➔ Country
+➔ Date_Added
+➔ Release Year
+➔ Rating
+➔ Duration
+➔ Listed_in
+➔ Description
+Project Objective
+Create an integrated Power BI dashboard that synergizes the objectives mentioned below:
+1. Shows Based on Country:
+- Objective: Understand the distribution of shows by country.
+- Insights: Identify the most prominent content contributors and tailor the platform's
+content strategy based on regional preferences.
+2. Content Evolution Over Time: Movies and Shows by Release Year:
+- Objective: Analyze the content evolution over the years.
+- Insights: Identify trends and patterns in content releases, helping in understanding
+audience preferences and planning future content.
+3. Country Map Based on Shows:
+- Objective: Visualize the concentration of shows in different countries.
+- Insights: Highlight regions with the highest content concentration, aiding in strategic
+decisions related to localization and global content acquisition.
+4. Top Genre:
+- Objective: Determine the distribution of content across different genres.
+- Insights: Identify the most popular genres, guiding content creation and acquisition
+strategies to align with viewer preferences.
+Providing a holistic view of Netflix's global content landscape. The dashboard aims to empower
+stakeholders with actionable insights, enabling informed decision-making in content strategy,
+localization efforts, and long-term planning. Through interactive visualizations, the project seeks
+to enhance the understanding of regional content preferences, historical content evolution, and
+genre popularity, fostering a data-driven approach to content management on the Netflix
+platform.
